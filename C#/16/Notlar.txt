@@ -1,0 +1,24 @@
+16.ders:
+
+dort_ýslem_menusu:
+
+acýklama:  burada 
+sayýlarýn toplamý:{0}",a+b);
+ifadesi istege baglýdýr .istersek bu þekildede yazabiliriz.burada aslýnda sayýlarýn toplamý {0} ýn oldugu yere yazýlacaktýr.
+--------------------
+
+
+sýcaklýk:
+
+acýklama:
+
+burada && iþatetinin anlamý ise ve dir yani 
+
+x&&y ise x ve y anlamýndadýr.
+
+
+burada if else 
+
+else if yapýsý çok önemli switc case yapýsýda önemli ancak if else yapýsý daha önemlidir .if else ile yapabilecegimiz bir þeyi siwitc case ilede yapabilriz ancak swich case i cok iyi ögrenmesedekte olur.if else ile bu iþi yapabiliriz.
+
+

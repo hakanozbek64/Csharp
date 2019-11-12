@@ -1,0 +1,40 @@
+13.ders:
+
+toplama_ýslemý:
+
+örnek:
+
+basýt_toplama_ýslemý_1
+
+en basitinden bir toplama iþlemi yapmýl olduk.
+
+örnege bakýnýz.
+
+eger kullanýcýnýn deger girerek toplama iþlemi yapmasýný istersek;
+----------------------------
+
+basýt_toplama_ýslemý_2:
+
+burada girilen sayýyý int olan a ve b degiþenlerine atamak istiyoruz.
+
+yani yazi1 ve yazi 2 dgerlerini int degerine cevirmek int a ve b degerlerine atamak istiyoruz.
+
+a=convert .toýnt32(yazi1);
+ifadesi önce parentez içini yazi1 alýr ve int degerine cevirir sonra eþittirin sagýndaki ifadeyi a degerine atar.
+  burada aslýnda stringi int degerine cevirmiþ olduk.
+
+
+burada readline yerine readkey yazarsak ne olur?
+
+sadace tek haneli sayý yazabiliriz çünkü tuþa basýncaya kadar bekler.
+
+istersek buradaki sonuc.ToString()) deki kýsmýn tostring() kýsmýný yazmasakta olur. ozmaan
+
+þöyle yazabilriz...
+
+cossole.write("2 sayýnýn toplamý:"+sonuc);
+
+yeterli olacaktýr.
+
+
+***ders sonu::

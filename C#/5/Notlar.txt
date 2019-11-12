@@ -1,0 +1,163 @@
+5.ders:
+degiþkenler konusu iþlenecek...
+
+consolo application (kod yazarak)..
+
+program yazarken bazý verilerin daha sonra kullanýlmak üzere bir yerde tutulmasý gerekiyor.
+bütün programlama dillerinde bu var.yani c# tada bu var.
+
+c# ta önceden tanýmlanmýþ dillerin temelini oluþturan ve veri saklamak için kullanýlan bir takým veri türleri var.
+
+bir cok programlama dilinde farklý farklý parcalara ayrýlýyor.
+c# dilinde veri tipleri 2 ye ayrýlýr.
+bunlar c# dilinin bize sundugu önceden tanýmlanmýþ veri türleri ve kullanýcý tarafýndan yani bizler tarafýndan tanýmlanacak olan veri türleri...
+
+önceden tanýmlanmýþ veri türleri 2 ye ayrýlýr..
+referans tipli ve deger tipli..
+
+//referans tipli olanlar:(bellegin ram ýn) heap kýmýnda
+
+//deger tipli olanlar ise stack bölgesinde tutuluyorlar.
+
+stack bölgesinde tutulanlar derleme anýnda calýþýyorlar ve heap'e göre daha hýzlýlar
+
+ikiside aslýnda ram ý temsil ediyor..
+
+heap taki fark bütü c# nesneleri heap ta saklanýyor örnek:class ta...
+
+15 tane veri tipi oldugunu düþünürsek...(tablodan )
+
+long
+
+flaat
+
+chear 
+
+...
+
+(15 adet)
+
+...
+ bunlarý hepsi birer degiþkendir..
+
+bunlarýn hepsi stack te tutuluyor.
+
+heapta tutulan sadece 2 tanedir.
+bunlar string ve object(nesne)...
+
+
+tek tek yukarýdaki belittiginiz degiþkenker göz atalým..
+
+c# taki adý
+
+
+sbyte: s: signed ten geliyor
+//signed ve unsigned 
+
+- ve + deger alabilir.
+-128ile +128 arasýnda bir sayý tanýmlar.
+8 bit iþaretli tamsadýr.
+
+
+arka plan karþýlýgý:sytem byte 
+
+short:16 bit iþaretli bir tamsayý -32.768 -+32768 arasýnda deger alabilir.
+
+int :(tamsayý) en cok kullanýlacak 
+deger aralýgý uzunca bir sayý  - ve + arasýnda deger alabilir.
+
+long : int ten uzun 
+ - ve + arasýnda deger alabilir.
+
+
+
+byte: 0 ile 255  arasýnda kullanýlýr. negatif deger ve 255 ten büyük deger alamaz.
+
+float :ondalýklý sayý demektir.
+
+double: biraz daha büyügü tabi ki
+
+bool :sadece dogru yada yanlýi degerlerini alýyor.
+char : sadce karkterleri temsil ediyor.
+
+
+bunu tablosuna bakýlarak daha ayrýntýlý inceleyebilririz.(c# degiþken türleri)
+
+
+degiþkenin tanýmlanmasý:
+
+
+verinin türü ismi;
+
+int a;
+
+char isim,
+
+short yas;
+
+
+ayrýca:
+
+a ve b degerleri olsun;
+
+int a;
+int b;
+
+direct oalarak:
+
+int a,b; olarak yazabilriz...
+
+benzer þekilde ayný tür degiþkenþer için 
+
+
+int isim ,ad,soyad; 
+olabilir..**
+
+bunu int isim;
+     int ad;
+     int soyad; 
+þeklindede yazabilriz .
+
+yukardaki daha kolay  olup daha cok tercih edilir..**
+
+ayrýca diger programlama dillerinde oldugu gibi  a ya bir deger atamadan porgram bunu kabu etme zcalýþtýrýlamaz. örnegin...aþagýdaki program gecersiz olur..
+
+buradakiler ayný veri tipinde olmak koþuluyla tabiki..
+
+int a=2,yas=16;
+
+char harf='m',deneme='s';
+gibi de kullanýlabilir.
+
+
+
+int a;
+
+console.writeline(a);
+
+
+bunu deger atayarak program bunu kabul edicekti..
+dogrusu....
+
+static void main(..)
+{
+int a=5,b=12,c=25;*
+
+...............
+
+yada int a;
+      a=5; gibide kullanýlabilri.basit yol yukarýdakidir*.
+
+
+ayrýca ;
+
+string adsoyad="hakan özbek";
+char karekter ='f';
+
+char ile string farký string te cift týrnak ile uzun uzun kelimeler girebilyoruuz.
+
+char de ise tek týrnakla tek karekter girilebiliyor.
+
+diger ders devam ediyoruz .degiþkenlere
+
+ders sonu 

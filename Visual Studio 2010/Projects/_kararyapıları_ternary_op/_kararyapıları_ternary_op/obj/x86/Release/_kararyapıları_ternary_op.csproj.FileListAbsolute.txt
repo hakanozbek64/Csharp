@@ -1,0 +1,7 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Release\_kararyapıları_ternary_op.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Release\_kararyapıları_ternary_op.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Release\_kararyapıları_ternary_op.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\bin\Release\_kararyapıları_ternary_op.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\bin\Release\_kararyapıları_ternary_op.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Release\_kararyapıları_ternary_op.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Release\_kararyapıları_ternary_op.pdb

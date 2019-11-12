@@ -1,0 +1,14 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\degıskenler_3\bin\Debug\degıskenler_3.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\degıskenler_3\bin\Debug\degıskenler_3.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\degıskenler_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\degıskenler_3\obj\x86\Debug\degıskenler_3.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\degıskenler_3\obj\x86\Debug\degıskenler_3.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.pdb
+C:\Users\Dell\Desktop\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.exe
+C:\Users\Dell\Desktop\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.pdb
+C:\Users\Dell\Desktop\C#\6\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.exe
+C:\Users\Dell\Desktop\C#\6\degıskenler_3\degıskenler_3\obj\x86\Debug\degıskenler_3.pdb
+C:\Users\Dell\Desktop\C#\6\degıskenler_3\degıskenler_3\bin\Debug\degıskenler_3.exe
+C:\Users\Dell\Desktop\C#\6\degıskenler_3\degıskenler_3\bin\Debug\degıskenler_3.pdb
+C:\Users\Dell\Desktop\C#\6\degıskenler_3\degıskenler_3\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,95 @@
+12.ders:
+
+string-tostring yapýsý:
+
+en basitinden :
+
+............
+string yazi="merhabalar arkadaþlar";
+
+console.write(yazi);
+console.reakey();
+}
+...........
+
+þeklinde yazýlabilir..
+
+eger tek harf yazdýrmak istiyorsak char kullanmamýz gerekiyor.yani
+* charlarýn toplamý string tir.
+
+
+ char a='d',b='l';
+
+yani charlarýn toplamý string yapýyor.
+örnegin ;
+------------
+örnek _1:
+
+string_1:
+
+string yazi = "merhaba arkadaþlar";
+
+            Console.WriteLine(yazi[2]);
+
+burada yazýlan yazýnýn 3 karekteri yazýlýr. þöyleki
+
+0123..gittigi için dizinin 2. karekteri r olmuþ olur.
+
+ilk karekterin(m harfinin) asci kodundaki karþýlýgý nedir diye bulmak istersek;
+
+
+koda þöyle bir ekleme yapabiliriz.
+
+Console.WriteLine((int)yazi[0]);
+
+bize sayýsal bir deger döndürüyor.(109) gibi
+...
+
+ayrýca 
+
+console.write((char)67);
+console.readkey();
+
+dersek char 67 degeri büyük c harfine karþýlýk gelir.
+
+char 65 degeri ise A harfine karþýlýk gelir.
+---------------------------------------
+
+
+örnek:
+
+string_2:
+
+mesela biz stringi int e çevirmek istiyoruz...
+
+
+Console.WriteLine(Convert.ToInt32(yazi[3]));
+dersek string degerini int degerine (normal int 32 bittir.)sayýsal bir degere cevirmiþ oluyoruz.
+
+aslýnda buradaki h harfinin int degerindeki karþýlýgýný bulmuþ oluyoruz.
+
+----------------------
+örnek:
+
+string_3:
+
+güzel bir örnek
+
+burada 
+
+Console.WriteLine(sayi1+sayi2); ifadesinde iki sayýyý topladý.
+
+Console.WriteLine(yazi1 + yazi2);ise iki sayýyý stringe cevirip yanyana yazdý.
+
+
+iki tarafýnda türleri ayný olmasý gerekir.
+
+to string degiþkenin veya  sabitin stirng olmasýný saglýyor.
+
+
+convert dönüþtürme yapýyor.
+
+convert.toint32(string a);->string a ifadesi int degerine cevrilecek.
+convert.tobyte(string c);-> string c ifadesi  byte cevrilecek
+
+***ders sonu:

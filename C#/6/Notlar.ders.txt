@@ -1,0 +1,90 @@
+6.ders:
+
+degiþkenler konusunun devamý:
+
+*degiþken tanýmlamanýn özellikleri:
+
+degiþeni ismlendirirken sayý ile baþlayamýyoruz.sayý baþta olmaz, ortada sonda olabilir.altcizgi(_) ile baþlanabilir.boþuk ,noktalý virgül,virül vs bunlarý kullanamýyoruz.
+
+int 1a 
+
+yapýlamaz..
+-----------
+büyük küçük harfler farklý algýlanýr..
+
+int asd;
+
+int ASD; 
+
+ayný degildir farklý ddegiþkenlerdir..
+bununla ilgili küçük bir örnek yapalým..
+
+
+örnek:
+
+
+degýkenler_2
+
+
+acýklama: eger burada istersek   Console.ReadLine();
+
+kýsmýný yazmadan ekran cýktýsýný görebilriz.
+
+debugg->start without debugg dan direkt calýþtýrabilriz.
+
+
+degiþen türleri tablosu var bunu inceliyoruz.
+
+
+REFERANCE TÝP OLANLAR:
+
+string ve objeler ve her sýnýf bir referanse tipidir.
+DEGER TÝPLÝ OLANLAR:
+
+13 tane dir. tabloya bak(adsýz)
+
+
+örnek:
+
+degiþkenler_3
+
+options kýsmýndan text editör c# kýsmýdan word wrap dersek  entera basmadan yazýmýz aþagý satýra gider .eger biz elle enter dersek hata verir.
+
+
++a+  ile iki stringi birleþtiriyor...yani 
+
+"merhaba a hoþheldin" þeklinde yazýlamaz...
+
+adýnýzý soyadýnýzý girin ekarnýndan sonra ad soyad giriyoruz ancak enter basarak(readline dan dolayý) ekran cýktýsýný görebiliriz.
+
+
+klavyeden bir deger girilerek iþlem sonlanýr.readkey den dolayý
+
+önemli bir nokta:
+
+
+program yukardan aþagýya calýþtýgý için 
+
+eger stringi +a+ nýn altýna koyar tanýmlarsak 
+
+program bunu tanýmaz çünki program satýr satýr ilerledigi için 
+ sonradan tanýmlama yapmak programý hata verdrir.yani
+
+//kullanýcýdan ad soyad alalým ,daha sonra ekranda bunu göstersin.
+
+            string a;
+
+            Console.WriteLine("LUTFEN _ADINIZI VE SOYADINIZI GIRINIZ");
+            
+
+            Console.WriteLine("MERHABA " +a+ " HOÞGELDÝNÝZ");
+            Console.ReadKey();
+       string a = Console.ReadLine();
+
+        }
+    }
+ yukardaki ifade gecersizdir.kullanmadan önce tanýmlama yapmalýyýz.
+
+
+
+ders sonu:

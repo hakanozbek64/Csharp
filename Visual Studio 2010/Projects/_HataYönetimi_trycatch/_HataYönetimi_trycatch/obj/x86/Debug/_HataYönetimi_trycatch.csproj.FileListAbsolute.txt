@@ -1,0 +1,14 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\bin\Debug\_HataYönetimi_trycatch.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\bin\Debug\_HataYönetimi_trycatch.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\bin\Debug\_HataYönetimi_trycatch.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\bin\Debug\_HataYönetimi_trycatch.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.Properties.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_HataYönetimi_trycatch\_HataYönetimi_trycatch\obj\x86\Debug\_HataYönetimi_trycatch.csproj.GenerateResource.Cache

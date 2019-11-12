@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\bılıclı_tur_donusumu_1\bin\Debug\bılıclı_tur_donusumu_1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\bılıclı_tur_donusumu_1\bin\Debug\bılıclı_tur_donusumu_1.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\bılıclı_tur_donusumu_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\bılıclı_tur_donusumu_1\obj\x86\Debug\bılıclı_tur_donusumu_1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\bılıclı_tur_donusumu_1\obj\x86\Debug\bılıclı_tur_donusumu_1.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\bılıclı_tur_donusumu_1\bılıclı_tur_donusumu_1\obj\x86\Debug\bılıclı_tur_donusumu_1.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\bılıclı_tur_donusumu_1\bılıclı_tur_donusumu_1\obj\x86\Debug\bılıclı_tur_donusumu_1.pdb

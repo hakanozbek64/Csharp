@@ -1,0 +1,6 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\sıcaklık\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\sıcaklık\sıcaklık\bin\Debug\sıcaklık.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\sıcaklık\sıcaklık\bin\Debug\sıcaklık.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\sıcaklık\sıcaklık\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\sıcaklık\sıcaklık\obj\x86\Debug\sıcaklık.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\sıcaklık\sıcaklık\obj\x86\Debug\sıcaklık.pdb

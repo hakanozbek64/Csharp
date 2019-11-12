@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\switch_case2\bin\Debug\switch_case2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\switch_case2\bin\Debug\switch_case2.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\switch_case2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\switch_case2\obj\x86\Debug\switch_case2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\switch_case2\obj\x86\Debug\switch_case2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\switch_case2\switch_case2\obj\x86\Debug\switch_case2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\switch_case2\switch_case2\obj\x86\Debug\switch_case2.pdb

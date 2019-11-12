@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "artırma_op_1", "artırma_op_1\artırma_op_1.csproj", "{6BA3605E-404C-4655-9C97-17009E26E72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA3605E-404C-4655-9C97-17009E26E72F}.Debug|x86.ActiveCfg = Debug|x86
+		{6BA3605E-404C-4655-9C97-17009E26E72F}.Debug|x86.Build.0 = Debug|x86
+		{6BA3605E-404C-4655-9C97-17009E26E72F}.Release|x86.ActiveCfg = Release|x86
+		{6BA3605E-404C-4655-9C97-17009E26E72F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

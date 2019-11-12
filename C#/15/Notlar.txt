@@ -1,0 +1,82 @@
+15.ders:
+bazý durumlar gelir birden bazla durumu test etmemiz gerekir.ozaman
+
+else if yapýsýný kullanmamýz gerekir..
+
+mesela:sýnav notu girme,sýcaklýk ölçme,haftanýn günlerini ölçme gibi..
+
+kullanýmýna basit bir örnek:
+---------------------------
+örnek:
+ else_if:
+
+
+
+acýklama:
+
+gunu readline ile alýrýz önce 
+
+burada gun ifadesini cevirmemizin nedeni gun ifadesinin string oldugu için int degerine yani sayý ifadesine cevrilmesi gerekiyor.cevrilen int ifadesini 
+a degerine atýyor.
+
+diger önemli bir nokta ise;
+
+if{
+
+}
+den sonra devamlý suretle if yazmamamýz bunun yerine else if yapýsý kullanýrýz.
+
+--------------------------------------------
+ancak burada string ifadesini devamlý int degerine cevirip bunu da gibi bir degere atamamýz mý gerekiyor. yani convert etmemiz mi gerekiyor. tabiki hayýr.
+
+onun için;
+
+örnek_2:
+
+if_else_2:
+
+acýklama:
+
+burada bir önceki örnekten farklý olarak string 2;ifadesini sildik. ve 
+gun = Console.ReadLine();//örnegin 2 degeri girdik
+
+  a = Convert.ToInt32(gun);//buradaki string 2 degerini (int32) 2 degerine ceviriyoruz.sonra bunu a ya atýyoruz.
+yukardaki iki ifadeyi de sildik.
+
+kolaylýk için sadece:(yukardaki iki satýrla alttaki satýr aynýdýr.)
+
+ a = Convert.ToInt32(Console.ReadLine());
+
+ifadesini kullandýk.
+burada aslýnda console.readline()=a oldugu için 
+
+a = Convert.ToInt32(Console.ReadLine());ifadesi 
+ile aynýoluyor yani:
+
+a = Convert.ToInt32(a); oluyor.
+
+yukardaki ilk  yazdýgýmýz kodlar ile ayný oluyor.
+
+burada bir bakýma kýsaltma yapýyoruz..
+------------------------
+a = Convert.ToInt32(Console.ReadLine())
+
+ifadesini iyi bilmemiz faydalý olur.
+---------------------------
+
+örenk_3:
+
+else if_3:
+
+
+acýklama:
+yukarýdaki ifadeyi aslýnda kullanmýþ oluyoruz.
+yani:basitleþtirmemiz için:
+
+
+
+a = Convert.ToInt32(Console.ReadLine())
+
+
+***ders sonu:
+

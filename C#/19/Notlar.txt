@@ -1,0 +1,71 @@
+19. ders:
+
+for dongusu devam(18.ders)
+
+faktoriyel programý.(for dongusunde genelde faktoriyel programý yapýlýr )
+
+
+faktoryel nedir? bilindigi gibi...
+
+3! =3.2.1 =6 
+5!_5.4.3.2.1=120 gibi
+
+örnek:
+
+for_dongusu_faktoriyel:
+
+
+acýklama:
+
+deger alýp bunu int degerine ceviriyoruz(convert).
+
+
+girdigimimiz sayý 3 olsun ona göre acýklayalým...
+b=1 aldýk çünki burada faktroyel 1 den baþlýyor.
+
+3! =3.2.1 =6 
+
+b=1 ise 1<=3 olduguiçin 
+sonuc=1.1 den sonuc =1 olur..
+
+
+b 1 artýrýr b=2 olur.
+
+b=2 ise 2<=3 oldugu için 
+
+sonuc=1.2 sonuc=2 olur.
+
+b 1 artýrýlýr.b=3 olur.
+
+
+b=3 ise 3<=3 oldugu için 
+
+sonuc =2.3 sonuc =6 olur.
+------
+örnek
+for_dongusu
+
+acýklama:
+if(i%5==0) && i%7!=0)
+
+ifadesi i'nin 5 e bölümünden kalan 0 olacak ve
+i 'nin 7 ye bölümünden kalan 0 olmayacak.
+
+
+i=1 dir çünki sayý 1 den baþlýyor.ve i<=100 de 100 e kadar istedigi için
+
+i degerini artýr.
+i%5==0 -> 5 e bölündügünde kalan 0 vericek.
+
+i%7!=0  -> de ise 7 ye bölünemeyecek .
+
+
+toplamý burada topluyoruz bir önceki örnekteki gibi
+
+sonra her oluþan toplamda adeti artýrdý.
+
+
+ve sonra bunlarý yazdýrdýk .
+
+
+***ders sonu:

@@ -1,0 +1,8 @@
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\bin\Release\_Aritmetikoperatorler.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\bin\Release\_Aritmetikoperatorler.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.csprojResolveAssemblyReference.cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.csproj.GenerateResource.Cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Release\_Aritmetikoperatorler.pdb

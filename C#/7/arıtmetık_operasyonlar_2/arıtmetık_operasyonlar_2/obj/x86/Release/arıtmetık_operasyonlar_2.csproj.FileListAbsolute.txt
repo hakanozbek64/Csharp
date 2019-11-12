@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\arıtmetık_operasyonlar_2\bin\Release\arıtmetık_operasyonlar_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\arıtmetık_operasyonlar_2\bin\Release\arıtmetık_operasyonlar_2.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\arıtmetık_operasyonlar_2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\arıtmetık_operasyonlar_2\obj\x86\Release\arıtmetık_operasyonlar_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\arıtmetık_operasyonlar_2\obj\x86\Release\arıtmetık_operasyonlar_2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\arıtmetık_operasyonlar_2\arıtmetık_operasyonlar_2\obj\x86\Release\arıtmetık_operasyonlar_2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\arıtmetık_operasyonlar_2\arıtmetık_operasyonlar_2\obj\x86\Release\arıtmetık_operasyonlar_2.pdb

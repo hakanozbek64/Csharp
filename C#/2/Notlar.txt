@@ -1,0 +1,23 @@
+2.ders:
+
+bu derste windows form application daki 
+form bileþenin proporties özelliklerini gösterilmesi incelenmiþtir.
+
+herþey bu form bileþenin üzerinde olmaktadýr.
+proportis kýsmýný inceliyoruz...
+
+*name formun kod kýsmýndaki ismi(bunu kod kýsmýnda görebiliriz istersek ismini degiþtirebilriz.) text ile karýþtýrmayýn !! text formun ismini gösterir.
+
+*accept buttom :butona kod yazdýk entere basýldý þeklinde f5 yaptýk ama entere basýlýnca entere basýldý uyarýsý geliyor.accept butondan button secilirse butona basýlýnca ve entere basýlýnca entere basýldý uyarýsý geliyor.
+*back color :formun arka plan rengi demektir
+*back ground ýmage:arka plana resim eklememizi saglýyor.alt özellikleri mevcut .ok iþaretiyle bunlarý düzenleyebilriz .tile ksýmýndan resmim tamanýný veya baþka türlü özellikleriinide degiþtirebilriz.
+
+
+*cancel button ise:button  ekleyip kod yazýyoruz ve cansel button buraya eklenirse esc veya entere basýncada ekrana yazdýgýmýz mesage geliyor.
+
+*cursor:farenini bicimini degiþtiriyor.
+
+*enabled:ise koydugumuz bileþenlerin f5 ile yaptýktan sonra  .aktif olmuyor.secemiyoruz yani.
+*font kýsmý genelde button gibi label gibi yapýlar için gecerli genelde 
+
+button olsaydý mesela boyut,yazý tipi,yazý tipi sitili gibi vs þeyleri degiþtirebiliriz.ve daha bircok özellikleri secebiliroruz.

@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\artırma_op_2\bin\Debug\artırma_op_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\artırma_op_2\bin\Debug\artırma_op_2.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\artırma_op_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\artırma_op_2\obj\x86\Debug\artırma_op_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\artırma_op_2\obj\x86\Debug\artırma_op_2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\artırma_op_2\artırma_op_2\obj\x86\Debug\artırma_op_2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\artırma_op_2\artırma_op_2\obj\x86\Debug\artırma_op_2.pdb

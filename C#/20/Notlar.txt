@@ -1,0 +1,56 @@
+20.ders:
+
+for dongusune devam 
+
+ornek:
+
+içi içe for dongusu:
+
+
+for_dongusu_3:
+
+acýklama:
+
+önce y=0 degerinen 0<=5 oldugu için donguye girer  
+ for x=0 var 0<=0 oldugu için 
+console.write bir tane yýldýzý yazdý.tekrar 
+ for (x = 0; x <= y;x++) kýsmýna gelir
+
+x=1 1=<0 olmdýgýndan bu donguden cýkar bir üst for dongusune gider.
+ for(y=1 oldur.1<=5 oldugu için bir alt for dungusune girer.)
+
+
+
+x=0 0<=1 oldugundan 
+bir yýldýz yazdý.
+
+tekrar for dongusune girer 
+ for (x = 0; x <= y;x++)
+
+ for(x=1 oldu 1<=1; oldugu için yanýna birdaha yýldýz yazdý.....
+
+
+...5 kez yýldýz bu þekilde yazdýrýlýr.
+
+ 6 <=5 olmadýgý için en fazla  5 kez yazdýrdýk.
+
+
+örnek:
+
+for_dongusu_4:
+
+//for_break kullanýmý
+
+
+
+acýklama:alt alta sýralamadan(önceki örneklerdeki gibi) sadece 23 e bölünebilen ilk sayýyý yaz.
+
+burada break donguye girmesini engeller 
+
+direkt donguden cýkar break  kesmek  demek zaten 
+
+eger break yazamassak 23,46,69,92 olucaktý 
+ama break ile sadece tek donguye girer .kesti çünki yani döngüden cýktý.
+
+
+*** ders sonu

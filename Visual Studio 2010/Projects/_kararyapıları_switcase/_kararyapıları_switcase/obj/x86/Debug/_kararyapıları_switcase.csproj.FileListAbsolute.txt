@@ -1,0 +1,14 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\bin\Debug\_kararyapıları_switcase.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\bin\Debug\_kararyapıları_switcase.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\bin\Debug\_kararyapıları_switcase.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\bin\Debug\_kararyapıları_switcase.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_switcase\_kararyapıları_switcase\obj\x86\Debug\_kararyapıları_switcase.csproj.GenerateResource.Cache

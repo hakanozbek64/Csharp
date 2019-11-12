@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\atama_2\bin\Debug\atama_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\atama_2\bin\Debug\atama_2.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\atama_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\atama_2\obj\x86\Debug\atama_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\atama_2\obj\x86\Debug\atama_2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\atama_2\atama_2\obj\x86\Debug\atama_2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\atama_2\atama_2\obj\x86\Debug\atama_2.pdb

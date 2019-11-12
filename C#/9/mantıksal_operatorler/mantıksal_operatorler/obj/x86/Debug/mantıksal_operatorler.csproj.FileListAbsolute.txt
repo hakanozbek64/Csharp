@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\mantıksal_operatorler\bin\Debug\mantıksal_operatorler.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\mantıksal_operatorler\bin\Debug\mantıksal_operatorler.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\mantıksal_operatorler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\mantıksal_operatorler\obj\x86\Debug\mantıksal_operatorler.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\mantıksal_operatorler\obj\x86\Debug\mantıksal_operatorler.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\mantıksal_operatorler\mantıksal_operatorler\obj\x86\Debug\mantıksal_operatorler.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\mantıksal_operatorler\mantıksal_operatorler\obj\x86\Debug\mantıksal_operatorler.pdb

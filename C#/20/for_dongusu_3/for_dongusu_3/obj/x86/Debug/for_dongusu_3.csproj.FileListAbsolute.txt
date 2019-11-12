@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_3\bin\Debug\for_dongusu_3.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_3\bin\Debug\for_dongusu_3.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_3\obj\x86\Debug\for_dongusu_3.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_3\obj\x86\Debug\for_dongusu_3.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\for_dongusu_3\for_dongusu_3\obj\x86\Debug\for_dongusu_3.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\for_dongusu_3\for_dongusu_3\obj\x86\Debug\for_dongusu_3.pdb

@@ -1,0 +1,11 @@
+21. ders:
+
+windows form application uygulamasýnda 
+
+toplama iþlemi yapýlacaktýr.
+
+topla kýsmýna basýlarak kod yazýlýr.
+
+yazdýgýmýz texbox larýn convert edilerek int kýsmýna yazlýyor.
+
+toplam kýsmýnda ise int oldugu için string'e cevriliyor.

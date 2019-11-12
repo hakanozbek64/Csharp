@@ -1,0 +1,210 @@
+8.ders:
+bu ders atama artýrma ,azaltma opertörlerini görücez.
+----------------
+atama operatörü:
+a=5 oldugunda 
+
+
+burada 5 degeri a ya atanmýþtýr.
+
+atama _2 örnegi:
+
+anlaþýlýyor.
+
+
+ // atama operatörü
+
+            int a = 5;
+
+          a = a+1;
+
+            c = a + b;
+
+            Console.WriteLine(a);
+
+
+            Console.ReadKey();
+
+
+burada sonuc:6 cýkar. cunki sag tarafta a degerine bir eklenir ve sol kýsma atanýr.
+
+
+örnegin:
+........
+
+int a=3;
+
+a=a+5;
+
+a+=5; ayný anlama gelir program içim..
+
+diger operatörler için:
+
+
+
+a=a+5;
+
+a+=5;
+
+
+
+a=a-5;
+
+a-=5;
+
+
+a=a*5;
+
+a*=5;
+
+
+a=a/5;
+
+a/=5;
+
+þeklindede yazýlabilir..
+
+------------------------------------
+
+
+artýrma ve azaltma operatörleri::
+
+
+bunlar neler??
+
+(++  , --)dir.
+
+
+iki þekli var :++ -- ya degiþkenlerimizin
+
+öncesinde kullanýyor..yada  sonrasýnda kullanýyor..
+
+
+
+nasýl?????
+
+
+
+þimdi biz a yý 1 atrýrmak için:
+
+
+a=a+1;yada 
+
+a+=1;
+
+kullanabiliyduk.
+
+ancak artýrma operatörü ile de a degerini 1 artýrabiliriz..
+
+
+a++;->  yani a degerinin  1 artýrýlacagýný belirtir.
+
+
+burada eger tek degiþken kullanýrsak 
+
+
+a=5
+a++;-> ++a; ayný olur.   a=6
+
+a--;->--; da ayný olur   a=4 olur.
+
+ancak;
+
+iki durum varsa yani iki degiþken varsa...
+
+artýrma_op_1:
+
+burada dikkat edilmesi gereken þey:
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace artýrma_op_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // artýrma azaltma operatörleri(++ ve --)
+
+            int a = 15, b;
+
+            b = a++;
+            b=++a;
+
+
+            Console.WriteLine(a);
+
+            Console.WriteLine(b);
+
+            Console.ReadKey();
+
+
+---------
+
+burada :
+
+
+            b = a++; ifadesinden 
+
+b eþittirden sonra ne görüyor a yý görüyor a kaç 15 15 direct b ye atýyor.b =15 olur sonrsýnda ++ var bunu b ye aktaramaz tek baþýna o zamana  a ya aktarýyor. a  da +1  a=16 yazdýrýyor.
+
+
+
+b=++a; ifadesinde ise:
+
+eþittirden sonra ne var ++ ve ++ b ye aktarýlmaz  ozman ++ yý önce a ya aktarýyým diyor.ve a kaç olur 16 a=16;  dolayýsý ile = karþýsýndaki ifade 16 oldu ve 16 yý b ye aktardý.dikkat edilirse aktarma soldan saga dogrudur.
+
+cýktý:
+
+a=16;
+
+b=16;
+
+olur...........
+
+
+-----------------
+
+
+
+artýrma_op_2:
+
+
+
+
+  b = ++a;->a=101 b=101
+  c = a++;->c=101 a=102
+  d = ++b;->b=102 d=102
+
+
+burada:
+
+
+a  - b-  c-  d
+
+101 101  101 102
+102 102
+
+en son a=102
+
+       b=102
+
+       c=101
+      
+       d=102
+
+
+
+**ders sonu:
+
+
+
+
+
+

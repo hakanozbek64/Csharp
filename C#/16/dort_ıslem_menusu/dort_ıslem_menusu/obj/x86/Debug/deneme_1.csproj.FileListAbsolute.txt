@@ -1,0 +1,5 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\deneme_1\bin\Debug\deneme_1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\deneme_1\bin\Debug\deneme_1.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\deneme_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\deneme_1\obj\x86\Debug\deneme_1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\deneme_1\obj\x86\Debug\deneme_1.pdb

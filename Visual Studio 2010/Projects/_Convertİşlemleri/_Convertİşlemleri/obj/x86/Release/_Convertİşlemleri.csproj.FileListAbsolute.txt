@@ -1,0 +1,10 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.csproj.GenerateResource.Cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\bin\Release\_Convertİşlemleri.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\bin\Release\_Convertİşlemleri.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.csproj.GenerateResource.Cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Convertİşlemleri\_Convertİşlemleri\obj\x86\Release\_Convertİşlemleri.pdb

@@ -1,0 +1,14 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\bin\Debug\_IlkUygulamam.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\bin\Debug\_IlkUygulamam.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\bin\Debug\_IlkUygulamam.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\bin\Debug\_IlkUygulamam.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.Properties.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Debug\_IlkUygulamam.csproj.GenerateResource.Cache

@@ -1,0 +1,76 @@
+18.ders:
+
+döngü yapýlarý:inglizcesi-loops
+
+ilk döngü :for  döngüsü
+
+for döngüsü kullanarak bir iþlemi istedigimiz kadar yaptýrabiliyoruz.
+
+örnegin:
+............
+class Program
+    {
+        static void Main(string[] args)
+        {
+           Console.WriteLine("c# dersleri");
+
+           Console.ReadKey();
+
+.............
+
+programýný yazdýk eger bundan 10 tane yazdýrmak istersek  o zaman for döngüsünü kullanmamýz gerekli.
+
+þöyleki;(yukardaki programa ekleme yaparsak)
+
+þöyle yazýlabilir 
+Console.WriteLine("c# dersleri");
+Console.WriteLine("c# dersleri");
+Console.WriteLine("c# dersleri");
+
+............
+
+
+gibi de yapabilirdik ancak uzun bir iþ oldugu için for döngüsünü kulanacagýz 
+ayný kontrol yapýlarýnda oldugu gibi:
+------------
+tanýmlama:
+
+for(ifade1;ifade2;ifade3)
+{
+
+asd as asd asd...
+
+}
+
+console.readkey();
+---------
+
+ifade1=döngü degiþkenin ilk degeri.
+ifade2=döngü burada kontrol edilir.
+ifade3=döngü degiþkeni ile ilgili iþlemler yapýlýr(artýrma,azaltma..)
+
+-----------------
+
+// ekrana 5 defa alt alta c# dersleri yazalým.
+
+for_dongusu_1
+
+acýklama:öncelikle yapýlan þey yukarýdaki ifadeye göre durum yazýlýr.
+
+a=1 ..a++ de bir artrýlýr döngünün içine girer
+son a<=5 gelinceye kadar sonra artýk döngü biter bu arada yazýlmýþ olur.
+
+-------------
+for_dongusu_2:
+
+acýklama:burada int i degerini for döngüsünde yazdýk istersek yukarýdada yazabilirdik.toplam degerini  0 a eþitledik.
+
+burada birden 1000 e kadar olan  sayýlarýn toplamýný yazdýrdýk aslýnda
+
+consolu write line kýsmýný for döngüsünün dýþýna koyduk içine de koyabilrdik ama ozamantümünü alt alta yazdýracaktý.
+dýþýna koyarak direk sonucu bulmuþ olduk.
+--------------------
+
+
+
+***ders sonu

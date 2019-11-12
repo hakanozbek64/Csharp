@@ -1,0 +1,18 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\bin\Debug\_GlobalDegişkenler.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\bin\Debug\_GlobalDegişkenler.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form2.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form3.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\bin\Debug\_GlobalDegişkenler.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\bin\Debug\_GlobalDegişkenler.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form2.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Form3.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_GlobalDegişkenler\_GlobalDegişkenler\obj\x86\Debug\_GlobalDegişkenler.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\bin\Debug\_Aritmetikoperatorler.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\bin\Debug\_Aritmetikoperatorler.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\bin\Debug\_Aritmetikoperatorler.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\bin\Debug\_Aritmetikoperatorler.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.Properties.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_Aritmetikoperatorler\_Aritmetikoperatorler\obj\x86\Debug\_Aritmetikoperatorler.csproj.GenerateResource.Cache

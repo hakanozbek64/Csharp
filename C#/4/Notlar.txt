@@ -1,0 +1,137 @@
+4.ders:
+
+merhaba dünya yazdýrýyoruz..
+
+
+console application;
+
+
+bilgilendirme:
+
+reference kýsmýnýn altýndakiler c# ýn otomatik olarak ekledigi kütüphaneler..
+
+kod kýsmýndaki:
+
+usinh system;
+using   ...
+using....
+
+kýsmý ise name space alanlarýdýr.name space(isim uzayý)
+
+biz c/c++ da biz söyle birþeyler yzýyoruduk.
+
+main(){
+
+std::cout<<....gibi
+
+
+}
+
+
+ardýndan main kýsmýnýn üstüne 
+
+
+
+
+using std::cout;
+
+
+
+main(){
+
+þeklindede kullanýlýyoru.
+ve program içinde bu std yi kullanmayalým dedik.cünki isim uzayýnda zaten biz bunu tanýmlamladýk...
+
+java da ve c# ta "class program" denilen bir þey var (main kýsmýnýn üzerinde) yani herþey nesne olarak kabul ediliyor...
+
+her programda oldugu gibi main(ana demek) her programda olmak zorunda....
+
+namespace merhaba dünya (merhaba dünya bizim projemize verdigimiz isim..)
+
+programlamada hiaraþik bir yapý var..(yukarýdan aþagýya olmasý gibi)...
+
+
+bir cok programlama dilinde oldugu gibi c# ta 2li salsiti bir yapý varda ..
+yani büyük ve küçük harfe akrþý duyarlý..yani
+küçükse küçük büyükse büyük yazmamýz gerekiyor kodlarý...
+intelisans yapýsý deniyor...->>>>yani yazarken programýn  sizi yönlendirmesi kelimelerin vs cýkmasý...
+
+metot olanlar pembe bir kutu beliriyor.
+
+c# ta beliren kýrmýzý yazý erkrana yazdýrýlacak yazýdýr. 
+
+bütün satýrlar ;(noktalý virgül ) ile biter
+
+yazdýgýmýz kod:
+
+System.Console.WriteLine("merhaba dünya");
+
+buradaki:
+
+system.xxxxx.xxxx....
+
+using System;
+
+system isim uzayýdýr.
+system-> kütüphane adý.
+------
+console->sýnýf adý.
+
+writeline -> (object) sýnýfýn bir metodu.
+birde     -> sýnýfýn  bir olayý olabiliyor.
+
+not:altý kýrmýzý ile gösterilen kod yanlýþtýr.büyük üçük harfe dikkat ediniz..
+
+
+f5 ile calýþtýrýrsak calýþýr ve kapanýr .cýktýyý göremeyiz.onun için görülmesini istiyoruz.
+
+burada 
+
+using system ;
+.............
+.............
+.............
+
+burada system.console.xxx yazan kýsmda 
+
+system kýsmýný yazmasakta olur (yukarýda acýklamýþtýk..)
+
+sytem.xxx hiç bir zaman kullanmýyacagýz
+
+using system ;
+.............
+.............
+.............
+
+ifadesinde bir kez using system yazardýgýmýz zaman programýn içinde system.  birþey dememize gerek yoktur.
+
+artýk konsoldan baþlýyacagýz ifadeye þimdi 
+
+
+.....
+
+þimdi bu yazdýgýz kodu ekranda tutalým....
+
+
+console.readline();
+
+readline neyi saglýyor...
+enter a basana kadar programý ekranda tutmayý saglýyor....
+
+writeline daki line ekraný calýþtýrdýgýmýzda merhaba dünyanýn altýnda bir yeni satýr için _  iþareti görünür 
+eger writeline yerine 
+write yazarsak o zaman _(yeni satýr ) iþareti
+yanýnda belirir. 
+
+readline yerine 
+
+readkey yazarsak ve calýþtýrýrsak 
+ klavyeden bir tuþa basýncaya kadar bekler ekranda calýþan program...
+
+
+
+// ise yorum satýrý....
+program calýþtýrlýrken hiç hesaba katýlmaz...
+
+birden fazla yorum satýrý varsa bunlar secilip  
+üst kýsýmda bulunan "comment out...týklanýr ve yorum satýrý eklenmiþ olur.

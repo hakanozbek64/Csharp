@@ -1,0 +1,17 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\bin\Debug\_EventKavramı.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\bin\Debug\_EventKavramı.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_EventKavramı\obj\x86\Debug\_EventKavramı.Form2.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\bin\Debug\_EventKavramı.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\bin\Debug\_EventKavramı.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.Form2.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.csproj.GenerateResource.Cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_EventKavramı\_EventKavramı\obj\x86\Debug\_EventKavramı.csprojResolveAssemblyReference.cache

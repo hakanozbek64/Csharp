@@ -1,0 +1,119 @@
+9.ders:
+
+karþýlaþtýrma ve mantýksal operatörleri iþeleyecegiz...
+
+genelde if else yapýsýnda daha cok kullanýlýr.
+
+bunlarý bilmeden anlatýcaz.baþtan:
+
+// karþýlaþtýrma operatörleri:
+
+nelerdir?
+
+
+<,>,<=,=>,==,!=
+
+küçük ,büyük ,küçük eþit ,büyük eþit ,eþit eþit ve eþit degil opreatörleri.
+
+ilk iki  ifade matematikten biliniyor.
+
+digerleri matemetikten farklý eþit sag taraftadýr.
+
+
+=ifadesi atama için kullanýlýr.
+
+
+== ifadesi ise bize gercek hayattaki eþittiri ifade ediyor.
+
+!=eþit degil demektir.! ifadesi " degildir" demektir.
+
+
+bildigimiz gibi:
+
+bool ifadesinde true ve false gibi iki deger alýyor.
+
+
+bununla ilgili bir örnek yapalým.
+
+-----------------------------------
+karsýlastýrma_mantýksal_oper_1
+
+............
+acýklama:
+
+
+
+            bool sayý1 = 10 > 5;  //10 sayýsý 5 ten büyük mü ?evet true yazdý.
+            Console.WriteLine(sayý1);//
+
+            bool sayý2 = 10 < 5;// 10 sayýsý 5 ten küçük mü?hayýr false yazar.
+            Console.WriteLine(sayý2);
+
+            bool sayý3 = 20 <= 25;// 25 saysýsý 20 saýsýndan büyük ve eþit mi? evet true.
+            Console.WriteLine(sayý3);
+
+            bool sayý4 = 20 >= 45;// 20 sayýsý 45 ten büyük ve eþit mi?hayýr? false
+            Console.WriteLine(sayý4);
+
+
+            bool sayý5 = 10 == 10;// 10 sayýsý 10 sayýsýna eþit mi evet eþit o zaman true
+            Console.WriteLine(sayý5);//
+
+
+            bool sayý6 = 10 == 550;// 10 sayýsý 550 saysýnýna eþit mi?hayýr ozaman false
+            Console.WriteLine(sayý6);
+
+            bool sayý7=34!=34;// 34 sayýsý 34 sayýsýna eþit degil diyor. halbuki eþit oldugu için false 
+            Console.WriteLine(sayý7);
+
+
+            Console.ReadKey();
+
+
+-----------------------------------------
+
+      mantýksal operatörler:
+
+
+ve -> &&,veya -> || ,degil -> ! ifadeleri .
+
+birkac tane daha var þimdi onlara yer vermiyoruz.
+
+örnek:
+
+mantýksal_operatorler
+
+acýklama:
+              bool sayi1 = 10 > 5 && 30 < 40;
+//burada ve ifadesinde dogru olmasý için her iki tarafýnda dogru olamsý gerek . birisi yanlýþ olursa ekranda  false olur.yani ekrana dogru yazýcaktýr.
+
+               Console.WriteLine(sayi1);
+
+
+               bool sayi2 = 5 < 4 && 7 < 8;// eger birisi yanlýþ olursa ekrana false yazlýr. yani ekrana burada false yazar..
+
+               Console.WriteLine(sayi2);//
+
+               Console.ReadKey()
+
+veya için ise ikisinden birinin dogru olmasý yetiyor.
+
+örnekte:
+
+
+
+               bool sayi3 = 10 > 5 ||20<5;//burada birisi dogru oldugu için true yazdýýrýr.
+
+               Console.WriteLine(sayi3);
+
+
+degil örnegide ;
+
+
+
+               bool sayý4=!(100==100);// 100 sayýsý 100 sayýsýna eþit oldugu için dogrudur ancak degili alýndýgý için ekrana  false verdi.
+
+               Console.WriteLine(sayý4);
+
+
+*** ders sonu:

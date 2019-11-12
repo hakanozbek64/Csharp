@@ -1,0 +1,5 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\tur_donusumu\bin\Debug\tur_donusumu.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\tur_donusumu\bin\Debug\tur_donusumu.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\tur_donusumu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\tur_donusumu\obj\x86\Debug\tur_donusumu.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\tur_donusumu\obj\x86\Debug\tur_donusumu.pdb

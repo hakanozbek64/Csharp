@@ -1,0 +1,14 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\bin\Debug\_kararyapıları_ternary_op.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\bin\Debug\_kararyapıları_ternary_op.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\bin\Debug\_kararyapıları_ternary_op.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\bin\Debug\_kararyapıları_ternary_op.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ternary_op\_kararyapıları_ternary_op\obj\x86\Debug\_kararyapıları_ternary_op.csproj.GenerateResource.Cache

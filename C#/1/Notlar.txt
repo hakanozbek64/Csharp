@@ -1,0 +1,8 @@
+1. ders:
+c dili kullanýlmýþ baya güclüydü ancak gereksinimler artýnca nesneye yönelik programlamanýn ihtiyacý hissedildi.bu yüzden c++ dili gelmiþtir.ms dos ekranýnda birþeyler yapabiliyorduk.tabi bunda görsellik eksik oldugu için bu yüzdem sam firmasý java programlama dilini geliþtirdi.microsofta bu programlamaya karþý dot net in gözde programlama dili olan c# dilini geliþtirdi.þu  anda c# dili dünya üzerinde cok etkili olarak kullanýlýyor.
+
+program olarak visual c# 2010 expresss kullanýlýyor.
+bu derdste program ekranýný ve tool larýný anlatmýþtýr.
+
+float :sayfanýn akmasý
+dock:sayfa kilitleme

@@ -1,0 +1,7 @@
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Release\_IlkUygulamam.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Release\_IlkUygulamam.Properties.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Release\_IlkUygulamam.csproj.GenerateResource.Cache
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\bin\Release\_IlkUygulamam.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\bin\Release\_IlkUygulamam.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Release\_IlkUygulamam.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_IlkUygulamam\_IlkUygulamam\obj\x86\Release\_IlkUygulamam.pdb

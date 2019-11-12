@@ -1,0 +1,8 @@
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\bin\Debug\_Degiskenler.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\bin\Debug\_Degiskenler.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.Properties.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.csproj.GenerateResource.Cache
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_Degiskenler\_Degiskenler\obj\x86\Debug\_Degiskenler.csprojResolveAssemblyReference.cache

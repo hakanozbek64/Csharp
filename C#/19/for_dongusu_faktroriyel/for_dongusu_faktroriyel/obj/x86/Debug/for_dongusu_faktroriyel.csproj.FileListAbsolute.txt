@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_faktroriyel\bin\Debug\for_dongusu_faktroriyel.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_faktroriyel\bin\Debug\for_dongusu_faktroriyel.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_faktroriyel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_faktroriyel\obj\x86\Debug\for_dongusu_faktroriyel.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\for_dongusu_faktroriyel\obj\x86\Debug\for_dongusu_faktroriyel.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\for_dongusu_faktroriyel\for_dongusu_faktroriyel\obj\x86\Debug\for_dongusu_faktroriyel.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\for_dongusu_faktroriyel\for_dongusu_faktroriyel\obj\x86\Debug\for_dongusu_faktroriyel.pdb

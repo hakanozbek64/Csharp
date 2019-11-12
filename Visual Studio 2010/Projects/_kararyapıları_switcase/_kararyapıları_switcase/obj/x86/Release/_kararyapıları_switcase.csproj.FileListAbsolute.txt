@@ -1,0 +1,7 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Release\_kararyapıları_switcase.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Release\_kararyapıları_switcase.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Release\_kararyapıları_switcase.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\bin\Release\_kararyapıları_switcase.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\bin\Release\_kararyapıları_switcase.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Release\_kararyapıları_switcase.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_switcase\obj\x86\Release\_kararyapıları_switcase.pdb

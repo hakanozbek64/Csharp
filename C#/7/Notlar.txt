@@ -1,0 +1,127 @@
+7.ders:
+
+bu ders aritmetik operatörler:
+
+aritmetik operatörlerde + lar stringle yazlýlan ifadelerin yanyana yazýlmasýný saglýyor.örnegin;
+bu örnek sadece yazýldý .kaydedilmedi.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace arýtmetýk_operatorler_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+//  aritmetik operatörler.
+
+            string ad,soyad;
+            Console.WriteLine("lütfen adýnýzý giriniz:");
+           ad=Console.ReadLine();
+
+            Console.WriteLine("soyadýnýzý giriniz:");
+
+         soyad=Console.ReadLine();
+            Console.WriteLine("sayýn "+ad+soyad+" hoþgeldiniz...");
+        }
+    }
+}
+
+---------
+
+devam ediyoruz:
+
+
+a+b=c  
+
+
+a ve b burada operant 
+
++ ise operatördür.
+
+c sonuctur..
+
+
+operatörler de bildigimiz matematik iþlemleri gibi öncelik sýrasýna göre iþelem yapar.
+
+
+3+5*6 =33 gibi
+
+
+öncelik sýrasý:
+
+
+()
+
+*/
+
++- 
+
+yapýlýyor.
+
+
+*kodu yazdýktan harflerin altýnda yeþillle cýkan ifadeler
+bunlarý tanýmladýn ama hiç kullanmadýgýný belirtir.
+
+eger kullanýrsak bu harflerin altýndaki yeþil renkler gider. 
+
+örnek:
+
+arýrmetýk_operatorler_1
+
+....
+
+.....
+
+
+ Console.WriteLine("sonucumuz"+sonuc+"cýkmýstýr.");
+
+
+ksýmýný istersek ::
+
+
+Console.WriteLine("sonucumuz"+(a*b/c)+"cýkmýstýr.");
+
+þeklindede yapabiliriz..
+
+
+sonucumuz..3/4 ifadesini tam sayýlar için sonucu (int) 
+
+0 aldý. 
+
+
+sonucumuz..5/2 için  sonucu 2 bulur.
+
+flat için a=5,b=2;
+
+console........"sonucumuz"+(a/b)+"cýkmýstýr");
+
+sonuc 2.5 cýkar .(float :ondalýklýdan dolayý)
+
+---------------------------------
+
+gösterimi þu sekildede yazabiliriz...
+
+aritmetik_operatorler_2
+
+
+aýklama:örnegi inceleyiniz.
+
+
+-----------------
+
+mod ile ilgili bir örnek:
+
+arýtmetik_operatorler_3
+
+
+
+
+***ders sonu::
+5/2 kalan oldugu için mod1 dir.
+
+

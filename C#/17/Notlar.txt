@@ -1,0 +1,79 @@
+17.ders:
+
+koþul kontrol yapýlarýndan 
+
+swwitch case yapýsýný inceleyecegiz.
+
+(if else ile ayný mantýga sahip,ayný örnegi cözmeyecegiz.)
+
+switch case yapýsý yerine if else kullanýlabiliyor.
+
+okunutlugu atrýtmak için genelde switch case yapýsý kullanýlýr.
+
+switch case genel yapýsý:
+
+
+.................
+
+{
+
+switch (ifade){
+
+
+case x:
+
+  asd 
+  asd
+     break;
+case y;
+
+  asd 
+  asd
+    break;
+
+default:
+
+  asd
+  asd
+    break;
+
+
+}
+
+
+
+-------
+
+önce ifade hesaplanýyor.
+case x,y sabitleri
+hangisi ile eþletiliyor.
+
+c++ ta eger ifadenin sonunda break yoksa diger case yapýsýna geçiyor.ardýþýk olarak.
+
+bu programlamlardan hiçbiri saglanmassa defoult kýsmý iþletilip bitiriliyor.
+
+c# ise diger case yapýsýna go to ile gidilir.(tavsiye edilmez.)
+
+
+------------
+
+
+örnek:_1:
+
+
+switch case_1:
+
+burada sadece bilinmesi gereken defout kýsmýdýr. 
+
+burada programda hiç biri iþeltilmesse direct defoult kýsmýna girer.
+
+
+switch_case_2:
+
+acýklama:
+switch case ile dört iþlem programý yazalým.
+
+
+
+
+**ders sonu

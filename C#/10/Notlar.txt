@@ -1,0 +1,182 @@
+10 ders:
+
+tür dönüþümü konusu:
+
+
+windows console application da örnekler yapýlacak..
+
+
+
+tür dönüþümü:
+
+bilicli ve bilinciz olarak 2 ye ayrýlýyor..
+
+
+
+veri tipleri ve nasýl degiþken tanýmladýgýmýz görmüþtük.önceki derslerde
+
+uzun program yazarken öyle bir an gelir ki  nasýl armutla elmayý toplayamýyorsak .veri tiplerinini (int,float vs ) de kendi içlerinde toplamamýz gerekir.
+
+
+ancak nasýl elma armudu toplamak sacma geliyorsa bilgisayarda int ve byte vs tolamakta sacma gelir.
+
+
+bizde tür dönüþümü mantýgýný kullanarak degiþken türlerin de bir türün baþka bir türe degiþtirmeye calýþýyoruz.
+
+c# küçük türleri büyük türlere dönüþürme iþlemini bize býrakmýyor.
+kendisi bu iþ kendisi yapýyor...
+
+anlatýmý tabloda(paint_1)
+
+
+þunu biliyoruz en küçük þeyimiz bit :
+
+8 bit 1 bayt vs gider..
+
+4 bayt 1 int yapýyor.32 bit çünki..
+
+tablo(adsýz) ksýmýnda tabloyu inceleyiniz..
+
+
+mesela :
+
+1 bayt-> 8 bit.
+
+char -> 16 bit.
+
+int32 ->4 bayt yani 32 bit tir.(bizim kullandýgýmýz.)
+
+
+byte 0-255 arasý deger alabilir .
+
+bunlar tabloda var.
+
+
+program küçük türü büyük türe otomatik olarak dönüþtürüyor.
+
+------------------------------
+1. gösterim bilinsiz tür dönþümüdür.
+
+
+programda ne yapýlýyor...
+
+int bayta atanmaz yani;
+
+
+aþagýdaki örnek yanlýþtýr..
+
+ 
+            int a = 5;
+
+            byte b;
+
+            b = a;
+
+            Console.WriteLine();
+
+            Console.ReadKey();
+
+
+yanlýþ olan bizim þeklimizde belittigimiz int ksýmýnýn byte kýsmýna atanamayacagýdýr.cünki int kýsmý büyük 32 bit byte kýsmý 8 bitir ve.farkýlý türlerdedir. biri byte biri int  .bundan dolayý hata 
+
+
+-----------------------------------------------
+ancak þöyle düzeltirsek programýmýz dogru calýþýr.
+
+
+
+örnek_1
+
+
+tur_donusumu:
+
+
+
+            int a;
+
+
+            byte b=20;
+
+            a = b;
+
+            Console.WriteLine(a);
+
+            Console.ReadKey();
+
+
+
+ekrana  20 degeri yazar.
+
+yani  b degeri a ya aktarýldýgý için calýþtýrýlabilir .
+
+çünki dikkat edilirse farklý türler ancak byte alaný int alanýndan küçük oldugu için bu degeri byte in int alanýna gönderilmesinde bir sakýnca yok.(adsýz point dosyasýna bakýnýz).
+
+
+yani küçük türü büyük türe kolayca dönüþtürmüþ oldu.
+
+--------------------
+
+þöyle bir þey denicez..
+
+ikiside 32 bit oaln bir þeyi kullanabilirmiyiz??
+
+
+int deki degeri float a atayabilir miyiz ?
+
+atanabilir
+
+ tabloya bakarsak ayný boyutta çünki.
+
+---------------------
+
+tur_donusumu_2:
+
+
+int degerini flat degerine atadý.
+
+float :ondalýk sayý için kullanýyordu.
+
+
+tur donusumu_2 nin tersini yaprsak yani
+
+yani floata deger verip . int fonksiyouna atayalým 
+
+
+burada yanlýþ olur ?çünki float ondalýklý sayý oldugu için her ondalýklý sayý tam sayýya aktarýlamaz . floata ondalýklý sayý verip int e atamaya calýþtýrsakta gene olmaz.
+
+ancak int i floata atayabilyoruz. çünki her tam sayý bir ondalýklý sayýdýr. ama her ondalýklý sayý bir tam sayý degildir..
+
+
+---------
+
+küçük türler büyük türlere  dönüþtürülürken veri kaybý olamaz.
+
+
+fakat büyük türlerin küçük türlere dönüþtürülmesine izin verniyor.
+
+mantýksal olarak büyük bir paket kücük paketin içine sýgmaz  ne olur? alabildigini alýr ama alamadýgý dýþarda kalýr yani büyük türdeki veriyi küçük türdeki veriye aktarýrsanýz veri kaybý olur. 
+  örnegin þöye bir program yazarsak yanlýþ olur:
+
+
+
+
+ byte sayi1;
+
+            int sayi2=35;
+
+
+            sayi1 =sayi2;
+
+
+            Console.Write(sayi1);
+            Console.ReadKey();
+
+        }
+
+deger eksik cýkýyor ve burada aslýnda byte 0-255 arasý deger alabiliyor ancak koruma amaclý c# bunu dikkate almýyor ve eksik þekilde veriyi yazdýrýyor.
+
+
+daha sonraki konularda bilincli tür  dönüþü dersinde bunu atamayý göstericegiz..
+
+
+***ders sonu.

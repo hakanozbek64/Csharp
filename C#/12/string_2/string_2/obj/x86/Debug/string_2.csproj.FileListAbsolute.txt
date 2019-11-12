@@ -1,0 +1,7 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\string_2\bin\Debug\string_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\string_2\bin\Debug\string_2.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\string_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\string_2\obj\x86\Debug\string_2.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\string_2\obj\x86\Debug\string_2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\string_2\string_2\obj\x86\Debug\string_2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\string_2\string_2\obj\x86\Debug\string_2.pdb

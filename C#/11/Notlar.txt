@@ -1,0 +1,57 @@
+11. ders:
+
+bilinçsiz tür dönüþümüyle ilgili bir örnek
+
+
+örnek:
+...............
+
+byte a=50,b=100,c=200,d;
+
+d=a+b+c;
+
+console.x
+console.x
+.............
+
+programý yanlýþtýr .çünkü;d degeri  en fazla 255 degerini alabilir oysa degerimiz 350 oldugundan calýþmaz .
+byte ;0-255 arasýnda deger alýr.
+
+
+düzeltirsek;
+..........
+
+byte a=50,b=100,c=200,d;
+
+int d;
+
+d=a+b+c;
+
+console.x
+console.x
+.......
+
+a,b,c byte 
+
+d degeri int yani farklý;
+yani burada küçük türü büyük türe c# otomatik olarak dönüþtürdü.
+-----------------------------------------------------
+
+bilinçli tür dönüþümü:
+
+örnek_1
+
+
+bilinclý_tur_donusumu_1
+
+acýklama:
+
+normalde burada dönüþüm mümkün degildi yapýlmaz ancak biz burada c# iþime karýþma degip bazý eklemelerle programý uygun hale getiriyoruz..
+sol taraftaki degerle sag taraftaki degeri ayný tür haline gelicek þekilde düzenleme yapýlýyor. c# a iþime karýþma degip müdahele ediyoruz bir anlamda.
+--------------------------
+bilinclý_tur_donusumu_2
+
+acýklama:
+veri kaybýný göze alarak bir örnek yaparsak;burada int 400 olur ve byte atanmaya kalkarsa byte alaný 256 oldugu için 400-256=144 lük bir kýsm kalýr ve bize bu degeri döndürür.veri kaybý olur yani..
+
+***ders sonu

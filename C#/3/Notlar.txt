@@ -1,0 +1,65 @@
+3.ders:
+
+2nin devamý...
+form bileþeninden bahsediyoruz...
+
+*fore color:buton vs deki yazýlarýn rengi.
+*form borderstyle:kenarlýklarýn rengi ,biçimi vs için  kullanýlýr.calýþtýrýlýnca boyutuyla oyanayamýyoruz.
+
+fixed3d :kenarlýklara 3d ekler.
+
+fixeddiolaog:loogo yok olur.
+
+fixedtoolwindow:maxsimize ve minimize etme kýsýmlarý gitti sadece x iþareti kalýr.sag üst köþedeki  - ve kutu iþareti gider
+
+not:fixed olanlar calýþtýrýldýgýnda üzerinede oynama yapýlamaz yani büyültüp küçültülemez.fixed sabitlmek demektir zaten..
+
+sizebale tool window :calýþtýrýldýgýnda büyültüp küçültülebilir avcak gene x iþareti kalýr.diger - ve kutucuk gider
+
+fixedsingel:tamanen sabitleme
+
+sizebale dersek her trlü büyültüp kücültmeyi yapabiliyoruz.
+
+icon:sol üst kýsýmdaki logoyu degiþtirebiliyoruz. tabiki uzantýsý .ico olmasý gerekiyor.
+
+maxisimizebox:false yapýlýrsa ve calýþtýrýlýrsa _ kutu ve carpý iþareti kalýr ama ortadaki kutu inactif tir. iþlem yaptýrmaz.
+
+maximum size:verebilecegimiz en büyük boyuttur.
+
+minimumsize:verebilecegimiz en küçük degerleri verebiliyoruz.
+
+opacity:þeffaflýk demektir.
+
+righttoleft:yazýyý sola kaydýrdý.
+
+rightto leftlayout:üsyatafyaki yazý ve iþaretleri(altcizgi,kutu,x ) iþaretini yerdegiþtiriyor.rigttoleft ksýmýný yes secmemeiz gerekiyor.
+
+show icon :iconun gösterilip gösterilmemesini saglýyor.
+
+showintaskbar:false secilirse f5 yaparak calýþtýrdýgýmýzda ortaya cýkan icon resminin cýkmamasýný saglýyor.
+
+size :formun büyüklügü eger elle bunu yaparsak bunun degerinin degiþtigini gözlemleriz.
+
+start posizyon:
+manuel:program sol en üsste acýlýyor.direct.
+
+centerscreen:secilinir ve calýþtýrýlýrsa(f5) olursa calýþma sayfasý ortada acýlýr.
+
+windowsdefoultlocation:kendi acýlýþ ekranýdýr.biraz soldadýr.
+
+vs özellikleri var...
+
+
+text:sol üst köþedeki (form1) kýsmýnýn ismini  degiþtiriyor.
+
+ayný þekilde button koyar ve secersek vede tex t ksýmýna gelrsek buradan ismini degiþtirebiliriz.
+
+topmost:bir web sayfasý acýyoruz ve form 1 ögesini cslýþtýrýyoruz.web sayfasýnýn üzerine herhangi bir yere gelip týklarsak bu form1 ögesi kaybolur.yani birisi secili kalýyor gibi...
+
+windowsstate:maximize,minimize ve normal olarak kalýyor.
+
+maximize:secer form1 ögesini calýþtýrýrsak ekran görüntüsü ekraný kaplar eger minimize dersek ekran görüntüsü en altta küçük bir pencerede cýkar .normal ise aynen defout olarak acar sol kösede normal boyutta...
+
+
+
+-----------------------

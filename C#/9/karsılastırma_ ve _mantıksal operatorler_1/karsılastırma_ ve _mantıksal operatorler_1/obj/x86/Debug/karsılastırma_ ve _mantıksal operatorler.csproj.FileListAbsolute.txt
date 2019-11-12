@@ -1,0 +1,5 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\karsılastırma_ ve _mantıksal operatorler\bin\Debug\karsılastırma_ ve _mantıksal operatorler.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\karsılastırma_ ve _mantıksal operatorler\bin\Debug\karsılastırma_ ve _mantıksal operatorler.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\karsılastırma_ ve _mantıksal operatorler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\karsılastırma_ ve _mantıksal operatorler\obj\x86\Debug\karsılastırma_ ve _mantıksal operatorler.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\karsılastırma_ ve _mantıksal operatorler\obj\x86\Debug\karsılastırma_ ve _mantıksal operatorler.pdb

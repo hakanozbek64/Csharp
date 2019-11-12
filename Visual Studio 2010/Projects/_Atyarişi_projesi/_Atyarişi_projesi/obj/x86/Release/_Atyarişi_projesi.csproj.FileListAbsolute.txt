@@ -1,0 +1,7 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\obj\x86\Release\_Atyarişi_projesi.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\obj\x86\Release\_Atyarişi_projesi.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\obj\x86\Release\_Atyarişi_projesi.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\bin\Release\_Atyarişi_projesi.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\bin\Release\_Atyarişi_projesi.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\obj\x86\Release\_Atyarişi_projesi.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_Atyarişi_projesi\obj\x86\Release\_Atyarişi_projesi.pdb

@@ -1,0 +1,125 @@
+14.ders:
+
+if else yapýsýna giriþ yapýyoruz::
+
+if else ve switch case yapýsýna kontrol ve koþul ifadeleri deniliyor.
+
+ikiye ayrýlýyor 
+if else 
+switch case yapýsý
+
+iþlev olarak hemen hemen ayný yapýya sahip .
+
+yani swich kase ile yaptýgýmýz birþeyi if else ilede yapabiliyoruz.
+
+yanlýz if else ile yapýgýnoz birþeyi switch case ile yapamýyorsunuz.
+
+switch case programlama acýsýndan daha iyi görüntü elde ettigi için yeri gelince switch case de kullanýlabiliyor.
+
+
+if else kullanýmý:
+
+if,if-else if ,if else yi kullanabiliriz.
+bunlarý tek tek incelemeye calýþacagýz..
+
+if(koþul){
+
+ifadeler
+
+}
+
+else{
+
+ifadeler
+---------
+
+if-> eger
+
+else-> aksi taktirde.digertürlü demektir.
+
+
+}
+
+yani if koþulu dogru ise süslü parentez içini iþlet 
+degilse (else) olur onun içindeki süslü parentezi kullan demektir.
+
+
+
+
+...............
+örnegin::
+
+        static void Main(string[] args)
+        {
+
+
+if (100==100){
+
+console.writeline"sayýlar eþittir."
+
+}
+
+
+
+console.readkey();
+
+
+...........
+
+gibi bir ifadede koþul dogru oldugu için süslü parentez içi çalýþtý. yani sayýlar eþittri yazdý.
+
+
+eger sayýlarý eþit olmayacak þekilde yazarsak sonucta gösterecek birþey olmayacaktýr.
+
+
+----------------------------------------
+bu örnegin düþüncesiyle 
+else ifadesinide buna eklersek
+
+
+
+örnek_1
+
+
+else_if yapýsý:
+
+
+acýklama: birinci ifade dogru olmadýgý için ilk süslü parenteze giremez sonraki ifadeye girecek ve bize sayýlarýn eþit olmadýgýnýz yazdýracaktýr.
+
+else yapýsý mecburi de degildir.
+
+
+
+örnek_2
+else_if yapýsý_2:
+
+
+acýklama:
+burada if ifadesindeki koþul  dogru olmadýgý için else yapýsýna girerek bize b büyüktür a dan yazdýrmýþtýr.
+-------------------------------------
+örnek_3
+else_if yapýsý_3:
+
+
+acýklama:
+
+if yapýsýndaki ifade dogru oldugu için süslü parentez içine girer ve a-- ile a degerini bir azaltýr.
+
+yani 99 degerini bize yazdýrýr.
+
+
+sonra else kýsmýný atlayarak 
+
+console.readkey kýsmýna gelir buda bir tuþa basýncaya kadar bekleme yapar.basýnca sistemden cýkar.
+
+-----------------------------
+
+
+if else konusu diger derste devam ediyor.
+
+***ders sonu:
+
+
+
+
+

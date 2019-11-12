@@ -1,0 +1,17 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\bin\Debug\_kararyapıları_ifelse.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\bin\Debug\_kararyapıları_ifelse.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.exe
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.pdb
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Form2.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\bin\Debug\_kararyapıları_ifelse.exe
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\bin\Debug\_kararyapıları_ifelse.pdb
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Form1.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Form2.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.Properties.Resources.resources
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.csproj.GenerateResource.Cache
+C:\Users\hakan\Documents\Visual Studio 2010\Projects\_kararyapıları_ifelse\_kararyapıları_ifelse\obj\x86\Debug\_kararyapıları_ifelse.csprojResolveAssemblyReference.cache

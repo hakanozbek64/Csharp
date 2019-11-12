@@ -1,0 +1,4 @@
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Release\_kararyapıları_ifelse.Form1.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Release\_kararyapıları_ifelse.Properties.Resources.resources
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Release\_kararyapıları_ifelse.csproj.GenerateResource.Cache
+C:\Users\hakan\AppData\Local\Temporary Projects\_kararyapıları_ifelse\obj\x86\Release\_kararyapıları_ifelse.Form2.resources

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bilinclı_tur_donusumu_2", "bilinclı_tur_donusumu_2\bilinclı_tur_donusumu_2.csproj", "{593BCD1E-9FDE-4161-B661-0432DFC2C482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593BCD1E-9FDE-4161-B661-0432DFC2C482}.Debug|x86.ActiveCfg = Debug|x86
+		{593BCD1E-9FDE-4161-B661-0432DFC2C482}.Debug|x86.Build.0 = Debug|x86
+		{593BCD1E-9FDE-4161-B661-0432DFC2C482}.Release|x86.ActiveCfg = Release|x86
+		{593BCD1E-9FDE-4161-B661-0432DFC2C482}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
